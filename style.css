@@ -1,0 +1,12 @@
+body{
+    background-color:teal;
+    color:white;
+}
+#banner{
+    color:white;
+    text-align: center;
+}
+#pics{
+    display: flex;
+    justify-content: center;
+}
